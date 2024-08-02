@@ -1,0 +1,312 @@
+2024-08-02 17:01:01,305 - Avaliando algoritmo de ordenação: selection_sort
+2024-08-02 17:01:01,305 - Execução 1 de 2
+2024-08-02 17:01:01,305 - Vetor gerado de tamanho 50: [90835, 85887, 63321, 72827, 93728, 90529, 35144, 95782, 92506, 19450]...
+2024-08-02 17:01:01,305 - Tempo de execução: 0.0000000000, Trocas: 44, Iterações: 1225
+2024-08-02 17:01:01,305 - Vetor gerado de tamanho 500: [90835, 85887, 63321, 72827, 93728, 90529, 35144, 95782, 92506, 19450]...
+2024-08-02 17:01:01,310 - Tempo de execução: 0.0045237541, Trocas: 496, Iterações: 124750
+2024-08-02 17:01:01,311 - Vetor gerado de tamanho 5000: [10771, 3842, 61085, 80340, 66853, 22167, 99678, 26854, 94128, 10450]...
+2024-08-02 17:01:01,764 - Tempo de execução: 0.4528541565, Trocas: 4992, Iterações: 12497500
+2024-08-02 17:01:01,766 - Vetor gerado de tamanho 10000: [20893, 54140, 78101, 42469, 26564, 94892, 19368, 68201, 61452, 93258]...
+2024-08-02 17:01:03,550 - Tempo de execução: 1.7822613716, Trocas: 9990, Iterações: 49995000
+2024-08-02 17:01:03,551 - Vetor gerado de tamanho 11000: [41772, 47601, 59576, 45909, 26661, 95967, 10926, 47156, 21014, 78489]...
+2024-08-02 17:01:05,729 - Tempo de execução: 2.1788682938, Trocas: 10987, Iterações: 60494500
+2024-08-02 17:01:05,732 - Vetor gerado de tamanho 12000: [29563, 92310, 5341, 99827, 14349, 83783, 94859, 8378, 48106, 56326]...
+2024-08-02 17:01:08,308 - Tempo de execução: 2.5762369633, Trocas: 11988, Iterações: 71994000
+2024-08-02 17:01:08,308 - Execução 2 de 2
+2024-08-02 17:01:08,308 - Vetor gerado de tamanho 50: [12176, 73406, 72264, 54739, 52003, 2636, 41515, 55368, 4998, 14170]...
+2024-08-02 17:01:08,309 - Tempo de execução: 0.0000000000, Trocas: 49, Iterações: 1225
+2024-08-02 17:01:08,309 - Vetor gerado de tamanho 500: [16163, 56997, 51817, 76241, 46628, 8963, 94422, 41583, 85323, 12370]...
+2024-08-02 17:01:08,313 - Tempo de execução: 0.0040001869, Trocas: 498, Iterações: 124750
+2024-08-02 17:01:08,315 - Vetor gerado de tamanho 5000: [32111, 91361, 70029, 62251, 25127, 34274, 6049, 86440, 6621, 5171]...
+2024-08-02 17:01:08,762 - Tempo de execução: 0.4468374252, Trocas: 4992, Iterações: 12497500
+2024-08-02 17:01:08,763 - Vetor gerado de tamanho 10000: [26286, 7294, 68833, 38370, 6339, 81689, 14112, 82929, 52647, 95178]...
+2024-08-02 17:01:10,608 - Tempo de execução: 1.8437106609, Trocas: 9988, Iterações: 49995000
+2024-08-02 17:01:10,609 - Vetor gerado de tamanho 11000: [82400, 32622, 43929, 10457, 89305, 56091, 27172, 48535, 51355, 74210]...
+2024-08-02 17:01:12,934 - Tempo de execução: 2.3241183758, Trocas: 10988, Iterações: 60494500
+2024-08-02 17:01:12,935 - Vetor gerado de tamanho 12000: [56289, 65204, 83969, 25240, 86856, 74063, 88405, 83277, 86148, 87450]...
+2024-08-02 17:01:15,553 - Tempo de execução: 2.6172745228, Trocas: 11993, Iterações: 71994000
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 50, Média de Tempo: 0.0000000000, Desvio Padrão de Tempo: 0.0000000000, Média de Trocas: 46.50, Desvio Padrão de Trocas: 2.50, Média de Iterações: 1225.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 500, Média de Tempo: 0.0042619705, Desvio Padrão de Tempo: 0.0002617836, Média de Trocas: 497.00, Desvio Padrão de Trocas: 1.00, Média de Iterações: 124750.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 5000, Média de Tempo: 0.4498457909, Desvio Padrão de Tempo: 0.0030083656, Média de Trocas: 4992.00, Desvio Padrão de Trocas: 0.00, Média de Iterações: 12497500.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 10000, Média de Tempo: 1.8129860163, Desvio Padrão de Tempo: 0.0307246447, Média de Trocas: 9989.00, Desvio Padrão de Trocas: 1.00, Média de Iterações: 49995000.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 11000, Média de Tempo: 2.2514933348, Desvio Padrão de Tempo: 0.0726250410, Média de Trocas: 10987.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 60494500.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Algoritmo de Ordenação: selection_sort, Tamanho: 12000, Média de Tempo: 2.5967557430, Desvio Padrão de Tempo: 0.0205187798, Média de Trocas: 11990.50, Desvio Padrão de Trocas: 2.50, Média de Iterações: 71994000.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:01:15,553 - Avaliando algoritmo de ordenação: quick_sort
+2024-08-02 17:01:15,554 - Execução 1 de 2
+2024-08-02 17:01:15,554 - Vetor gerado de tamanho 50: [2370, 73528, 12562, 61754, 4131, 52347, 4240, 65059, 36345, 71495]...
+2024-08-02 17:01:15,554 - Tempo de execução: 0.0000000000, Trocas: 138, Iterações: 261
+2024-08-02 17:01:15,554 - Vetor gerado de tamanho 500: [2370, 73528, 12562, 61754, 4131, 52347, 4240, 65059, 36345, 71495]...
+2024-08-02 17:01:15,555 - Tempo de execução: 0.0005116463, Trocas: 2666, Iterações: 5043
+2024-08-02 17:01:15,555 - Vetor gerado de tamanho 5000: [6358, 57119, 92115, 83257, 98756, 58674, 57147, 51273, 16670, 69695]...
+2024-08-02 17:01:15,561 - Tempo de execução: 0.0051829815, Trocas: 37528, Iterações: 68126
+2024-08-02 17:01:15,562 - Vetor gerado de tamanho 10000: [30280, 58665, 69432, 12272, 66506, 96640, 74588, 68560, 98617, 58895]...
+2024-08-02 17:01:15,575 - Tempo de execução: 0.0129733086, Trocas: 82324, Iterações: 147374
+2024-08-02 17:01:15,577 - Vetor gerado de tamanho 11000: [86099, 28939, 83173, 13307, 91255, 85226, 15283, 75561, 23160, 33695]...
+2024-08-02 17:01:15,591 - Tempo de execução: 0.0133941174, Trocas: 91748, Iterações: 175563
+2024-08-02 17:01:15,592 - Vetor gerado de tamanho 12000: [49891, 66394, 56019, 57346, 5253, 86468, 61792, 54992, 8352, 4895]...
+2024-08-02 17:01:15,607 - Tempo de execução: 0.0146150589, Trocas: 99996, Iterações: 187055
+2024-08-02 17:01:15,608 - Execução 2 de 2
+2024-08-02 17:01:15,608 - Vetor gerado de tamanho 50: [17671, 87440, 8418, 22889, 13877, 94037, 61208, 20637, 73868, 74296]...
+2024-08-02 17:01:15,608 - Tempo de execução: 0.0000000000, Trocas: 159, Iterações: 269
+2024-08-02 17:01:15,608 - Vetor gerado de tamanho 500: [17671, 87440, 8418, 22889, 13877, 94037, 61208, 20637, 73868, 74296]...
+2024-08-02 17:01:15,608 - Tempo de execução: 0.0000000000, Trocas: 3425, Iterações: 5471
+2024-08-02 17:01:15,609 - Vetor gerado de tamanho 5000: [17671, 87440, 8418, 22889, 13877, 94037, 61208, 20637, 73868, 74296]...
+2024-08-02 17:01:15,616 - Tempo de execução: 0.0066273212, Trocas: 40370, Iterações: 76130
+2024-08-02 17:01:15,618 - Vetor gerado de tamanho 10000: [49568, 56168, 44841, 94909, 70876, 44657, 84462, 10353, 16464, 59896]...
+2024-08-02 17:01:15,630 - Tempo de execução: 0.0123143196, Trocas: 82205, Iterações: 153130
+2024-08-02 17:01:15,632 - Vetor gerado de tamanho 11000: [5387, 26442, 58582, 95943, 95625, 33244, 25158, 17355, 41007, 34696]...
+2024-08-02 17:01:15,645 - Tempo de execução: 0.0135262012, Trocas: 91731, Iterações: 169230
+2024-08-02 17:01:15,647 - Vetor gerado de tamanho 12000: [65192, 80306, 51875, 18481, 14999, 28158, 18760, 10571, 45875, 7696]...
+2024-08-02 17:01:15,662 - Tempo de execução: 0.0148842335, Trocas: 102954, Iterações: 200334
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 50, Média de Tempo: 0.0000000000, Desvio Padrão de Tempo: 0.0000000000, Média de Trocas: 148.50, Desvio Padrão de Trocas: 10.50, Média de Iterações: 265.00, Desvio Padrão de Iterações: 4.00
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 500, Média de Tempo: 0.0002558231, Desvio Padrão de Tempo: 0.0002558231, Média de Trocas: 3045.50, Desvio Padrão de Trocas: 379.50, Média de Iterações: 5257.00, Desvio Padrão de Iterações: 214.00
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 5000, Média de Tempo: 0.0059051514, Desvio Padrão de Tempo: 0.0007221699, Média de Trocas: 38949.00, Desvio Padrão de Trocas: 1421.00, Média de Iterações: 72128.00, Desvio Padrão de Iterações: 4002.00
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 10000, Média de Tempo: 0.0126438141, Desvio Padrão de Tempo: 0.0003294945, Média de Trocas: 82264.50, Desvio Padrão de Trocas: 59.50, Média de Iterações: 150252.00, Desvio Padrão de Iterações: 2878.00
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 11000, Média de Tempo: 0.0134601593, Desvio Padrão de Tempo: 0.0000660419, Média de Trocas: 91739.50, Desvio Padrão de Trocas: 8.50, Média de Iterações: 172396.50, Desvio Padrão de Iterações: 3166.50
+2024-08-02 17:01:15,663 - Algoritmo de Ordenação: quick_sort, Tamanho: 12000, Média de Tempo: 0.0147496462, Desvio Padrão de Tempo: 0.0001345873, Média de Trocas: 101475.00, Desvio Padrão de Trocas: 1479.00, Média de Iterações: 193694.50, Desvio Padrão de Iterações: 6639.50
+2024-08-02 17:01:15,682 - Avaliando algoritmo de busca: busca_linear
+2024-08-02 17:01:15,682 - Execução 1 de 2
+2024-08-02 17:01:15,682 - Target para busca: 12713
+2024-08-02 17:01:15,682 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Target para busca: 12713
+2024-08-02 17:01:15,682 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Target para busca: 12713
+2024-08-02 17:01:15,682 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,682 - Target para busca: 12713
+2024-08-02 17:01:15,682 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0010008812, Posição: -1
+2024-08-02 17:01:15,683 - Target para busca: 16700
+2024-08-02 17:01:15,683 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Target para busca: 16700
+2024-08-02 17:01:15,683 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Execução 2 de 2
+2024-08-02 17:01:15,683 - Target para busca: 16700
+2024-08-02 17:01:15,683 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,683 - Target para busca: 16700
+2024-08-02 17:01:15,685 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0015032291, Posição: -1
+2024-08-02 17:01:15,685 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,685 - Target para busca: 24675
+2024-08-02 17:01:15,685 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,685 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,685 - Target para busca: 24675
+2024-08-02 17:01:15,685 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: 7325
+2024-08-02 17:01:15,686 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0010042191, Posição: -1
+2024-08-02 17:01:15,686 - Target para busca: 28662
+2024-08-02 17:01:15,686 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: 2671
+2024-08-02 17:01:15,686 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,686 - Target para busca: 28662
+2024-08-02 17:01:15,686 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: 2671
+2024-08-02 17:01:15,686 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,686 - Algoritmo de Busca: busca_linear, Tamanho: 50, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,686 - Algoritmo de Busca: busca_linear, Tamanho: 500, Média de Tempo Desordenado: 0.0007516146, Desvio Padrão de Tempo Desordenado: 0.0007516146, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,686 - Algoritmo de Busca: busca_linear, Tamanho: 5000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,686 - Algoritmo de Busca: busca_linear, Tamanho: 10000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0010025501, Desvio Padrão de Tempo Ordenado: 0.0000016689, Posição no Vetor Desordenado: [-1, 7325], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,686 - Algoritmo de Busca: busca_linear, Tamanho: 11000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, 2671], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,687 - Algoritmo de Busca: busca_linear, Tamanho: 12000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, 2671], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,687 - Avaliando algoritmo de busca: busca_binaria
+2024-08-02 17:01:15,687 - Execução 1 de 2
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Execução 2 de 2
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,687 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,687 - Target para busca: 32649
+2024-08-02 17:01:15,688 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0009992123, Posição: -1
+2024-08-02 17:01:15,688 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,688 - Target para busca: 36636
+2024-08-02 17:01:15,688 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,688 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 50, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 500, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 5000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 10000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 11000, Média de Tempo Desordenado: 0.0004996061, Desvio Padrão de Tempo Desordenado: 0.0004996061, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:01:15,688 - Algoritmo de Busca: busca_binaria, Tamanho: 12000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:13,397 - Avaliando algoritmo de ordenação: selection_sort
+2024-08-02 17:03:13,397 - Execução 1 de 2
+2024-08-02 17:03:13,397 - Vetor gerado de tamanho 50: [48797, 83458, 64698, 79245, 87903, 14437, 1129, 31006, 16722, 56115]...
+2024-08-02 17:03:13,397 - Tempo de execução: 0.0000000000, Trocas: 45, Iterações: 1225
+2024-08-02 17:03:13,397 - Vetor gerado de tamanho 500: [48797, 83458, 64698, 79245, 87903, 14437, 1129, 31006, 16722, 56115]...
+2024-08-02 17:03:13,401 - Tempo de execução: 0.0042991638, Trocas: 495, Iterações: 124750
+2024-08-02 17:03:13,402 - Vetor gerado de tamanho 5000: [64745, 17821, 82909, 65255, 66403, 39747, 12757, 75864, 38020, 48915]...
+2024-08-02 17:03:13,856 - Tempo de execução: 0.4534881115, Trocas: 4992, Iterações: 12497500
+2024-08-02 17:03:13,858 - Vetor gerado de tamanho 10000: [78855, 51710, 79478, 48887, 20739, 18800, 85354, 3425, 85669, 29923]...
+2024-08-02 17:03:15,660 - Tempo de execução: 1.8022408485, Trocas: 9988, Iterações: 49995000
+2024-08-02 17:03:15,661 - Vetor gerado de tamanho 11000: [71500, 49808, 92905, 39372, 24084, 33771, 29234, 34240, 91072, 82754]...
+2024-08-02 17:03:17,825 - Tempo de execução: 2.1641712189, Trocas: 10987, Iterações: 60494500
+2024-08-02 17:03:17,828 - Vetor gerado de tamanho 12000: [3473, 24245, 24929, 92255, 87024, 33001, 72472, 88460, 93620, 85791]...
+2024-08-02 17:03:20,440 - Tempo de execução: 2.6120362282, Trocas: 11991, Iterações: 71994000
+2024-08-02 17:03:20,440 - Execução 2 de 2
+2024-08-02 17:03:20,440 - Vetor gerado de tamanho 50: [75435, 50966, 57952, 34974, 16908, 90484, 16503, 18731, 39451, 61689]...
+2024-08-02 17:03:20,440 - Tempo de execução: 0.0000000000, Trocas: 44, Iterações: 1225
+2024-08-02 17:03:20,440 - Vetor gerado de tamanho 500: [75435, 50966, 57952, 34974, 16908, 90484, 16503, 18731, 39451, 61689]...
+2024-08-02 17:03:20,445 - Tempo de execução: 0.0056071281, Trocas: 496, Iterações: 124750
+2024-08-02 17:03:20,446 - Vetor gerado de tamanho 5000: [95371, 68921, 55716, 42486, 90033, 22122, 81037, 49803, 41074, 52689]...
+2024-08-02 17:03:20,901 - Tempo de execução: 0.4535515308, Trocas: 4991, Iterações: 12497500
+2024-08-02 17:03:20,902 - Vetor gerado de tamanho 10000: [13467, 86400, 31838, 47620, 38994, 7503, 6541, 63578, 69047, 31897]...
+2024-08-02 17:03:24,228 - Tempo de execução: 3.3260643482, Trocas: 9987, Iterações: 49995000
+2024-08-02 17:03:24,231 - Vetor gerado de tamanho 11000: [78397, 93536, 4329, 86392, 56084, 59392, 27489, 98955, 8668, 43354]...
+2024-08-02 17:03:28,826 - Tempo de execução: 4.5949978828, Trocas: 10986, Iterações: 60494500
+2024-08-02 17:03:28,828 - Vetor gerado de tamanho 12000: [10872, 44787, 88553, 54824, 41439, 53647, 92989, 12860, 40731, 67033]...
+2024-08-02 17:03:31,458 - Tempo de execução: 2.6300783157, Trocas: 11988, Iterações: 71994000
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 50, Média de Tempo: 0.0000000000, Desvio Padrão de Tempo: 0.0000000000, Média de Trocas: 44.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 1225.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 500, Média de Tempo: 0.0049531460, Desvio Padrão de Tempo: 0.0006539822, Média de Trocas: 495.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 124750.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 5000, Média de Tempo: 0.4535198212, Desvio Padrão de Tempo: 0.0000317097, Média de Trocas: 4991.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 12497500.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 10000, Média de Tempo: 2.5641525984, Desvio Padrão de Tempo: 0.7619117498, Média de Trocas: 9987.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 49995000.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 11000, Média de Tempo: 3.3795845509, Desvio Padrão de Tempo: 1.2154133320, Média de Trocas: 10986.50, Desvio Padrão de Trocas: 0.50, Média de Iterações: 60494500.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Algoritmo de Ordenação: selection_sort, Tamanho: 12000, Média de Tempo: 2.6210572720, Desvio Padrão de Tempo: 0.0090210438, Média de Trocas: 11989.50, Desvio Padrão de Trocas: 1.50, Média de Iterações: 71994000.00, Desvio Padrão de Iterações: 0.00
+2024-08-02 17:03:31,459 - Avaliando algoritmo de ordenação: quick_sort
+2024-08-02 17:03:31,459 - Execução 1 de 2
+2024-08-02 17:03:31,459 - Vetor gerado de tamanho 50: [8786, 39794, 51333, 70870, 88839, 14189, 96612, 15429, 35147, 27678]...
+2024-08-02 17:03:31,459 - Tempo de execução: 0.0000000000, Trocas: 194, Iterações: 263
+2024-08-02 17:03:31,459 - Vetor gerado de tamanho 500: [8786, 39794, 51333, 70870, 88839, 14189, 96612, 15429, 35147, 27678]...
+2024-08-02 17:03:31,459 - Tempo de execução: 0.0000000000, Trocas: 2724, Iterações: 4764
+2024-08-02 17:03:31,460 - Vetor gerado de tamanho 5000: [8786, 39794, 51333, 70870, 88839, 14189, 96612, 15429, 35147, 27678]...
+2024-08-02 17:03:31,467 - Tempo de execução: 0.0065250397, Trocas: 43667, Iterações: 72203
+2024-08-02 17:03:31,468 - Vetor gerado de tamanho 10000: [40682, 8522, 87756, 42890, 45838, 64810, 19867, 5145, 77743, 13278]...
+2024-08-02 17:03:31,482 - Tempo de execução: 0.0140123367, Trocas: 99218, Iterações: 167359
+2024-08-02 17:03:31,483 - Vetor gerado de tamanho 11000: [488, 62386, 81049, 65427, 65212, 59723, 13469, 98361, 82611, 86279]...
+2024-08-02 17:03:31,497 - Tempo de execução: 0.0146639347, Trocas: 84999, Iterações: 167974
+2024-08-02 17:03:31,499 - Vetor gerado de tamanho 12000: [60294, 16251, 74343, 87965, 84585, 54637, 7071, 91577, 87478, 59279]...
+2024-08-02 17:03:31,513 - Tempo de execução: 0.0140678883, Trocas: 91851, Iterações: 184029
+2024-08-02 17:03:31,513 - Execução 2 de 2
+2024-08-02 17:03:31,513 - Vetor gerado de tamanho 50: [24086, 53706, 47189, 32004, 98584, 55879, 53580, 71008, 72670, 30479]...
+2024-08-02 17:03:31,514 - Tempo de execução: 0.0015034676, Trocas: 145, Iterações: 270
+2024-08-02 17:03:31,514 - Vetor gerado de tamanho 500: [28073, 37297, 26742, 53507, 93209, 62206, 6487, 57223, 52995, 28679]...
+2024-08-02 17:03:31,514 - Tempo de execução: 0.0000000000, Trocas: 2567, Iterações: 4714
+2024-08-02 17:03:31,515 - Vetor gerado de tamanho 5000: [28073, 37297, 26742, 53507, 93209, 62206, 6487, 57223, 52995, 28679]...
+2024-08-02 17:03:31,522 - Tempo de execução: 0.0065021515, Trocas: 38992, Iterações: 75589
+2024-08-02 17:03:31,523 - Vetor gerado de tamanho 10000: [59970, 6025, 63165, 25527, 50208, 12827, 29741, 46938, 95591, 14279]...
+2024-08-02 17:03:31,536 - Tempo de execução: 0.0134208202, Trocas: 95253, Iterações: 154755
+2024-08-02 17:03:31,538 - Vetor gerado de tamanho 11000: [15789, 76298, 76906, 26562, 74957, 1413, 70436, 53940, 20134, 89080]...
+2024-08-02 17:03:31,551 - Tempo de execução: 0.0128550529, Trocas: 85607, Iterações: 168710
+2024-08-02 17:03:31,553 - Vetor gerado de tamanho 12000: [75594, 30163, 70199, 49099, 94331, 96327, 64038, 47156, 25001, 62080]...
+2024-08-02 17:03:31,569 - Tempo de execução: 0.0160536766, Trocas: 117574, Iterações: 200239
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 50, Média de Tempo: 0.0007517338, Desvio Padrão de Tempo: 0.0007517338, Média de Trocas: 169.50, Desvio Padrão de Trocas: 24.50, Média de Iterações: 266.50, Desvio Padrão de Iterações: 3.50
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 500, Média de Tempo: 0.0000000000, Desvio Padrão de Tempo: 0.0000000000, Média de Trocas: 2645.50, Desvio Padrão de Trocas: 78.50, Média de Iterações: 4739.00, Desvio Padrão de Iterações: 25.00
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 5000, Média de Tempo: 0.0065135956, Desvio Padrão de Tempo: 0.0000114441, Média de Trocas: 41329.50, Desvio Padrão de Trocas: 2337.50, Média de Iterações: 73896.00, Desvio Padrão de Iterações: 1693.00
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 10000, Média de Tempo: 0.0137165785, Desvio Padrão de Tempo: 0.0002957582, Média de Trocas: 97235.50, Desvio Padrão de Trocas: 1982.50, Média de Iterações: 161057.00, Desvio Padrão de Iterações: 6302.00
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 11000, Média de Tempo: 0.0137594938, Desvio Padrão de Tempo: 0.0009044409, Média de Trocas: 85303.00, Desvio Padrão de Trocas: 304.00, Média de Iterações: 168342.00, Desvio Padrão de Iterações: 368.00
+2024-08-02 17:03:31,569 - Algoritmo de Ordenação: quick_sort, Tamanho: 12000, Média de Tempo: 0.0150607824, Desvio Padrão de Tempo: 0.0009928942, Média de Trocas: 104712.50, Desvio Padrão de Trocas: 12861.50, Média de Iterações: 192134.00, Desvio Padrão de Iterações: 8105.00
+2024-08-02 17:03:31,588 - Avaliando algoritmo de busca: busca_linear
+2024-08-02 17:03:31,588 - Execução 1 de 2
+2024-08-02 17:03:31,588 - Target para busca: 18882
+2024-08-02 17:03:31,588 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: 25
+2024-08-02 17:03:31,588 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,588 - Target para busca: 81015
+2024-08-02 17:03:31,588 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: 250
+2024-08-02 17:03:31,588 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,588 - Target para busca: 87767
+2024-08-02 17:03:31,588 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: 2500
+2024-08-02 17:03:31,588 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,588 - Target para busca: 63684
+2024-08-02 17:03:31,588 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: 5000
+2024-08-02 17:03:31,589 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0010011196, Posição: -1
+2024-08-02 17:03:31,589 - Target para busca: 28250
+2024-08-02 17:03:31,589 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: 5500
+2024-08-02 17:03:31,589 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,589 - Target para busca: 50429
+2024-08-02 17:03:31,589 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: 6000
+2024-08-02 17:03:31,589 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,589 - Execução 2 de 2
+2024-08-02 17:03:31,589 - Target para busca: 18882
+2024-08-02 17:03:31,589 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: 25
+2024-08-02 17:03:31,589 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,589 - Target para busca: 81015
+2024-08-02 17:03:31,589 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: 250
+2024-08-02 17:03:31,589 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,589 - Target para busca: 87767
+2024-08-02 17:03:31,589 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: 2500
+2024-08-02 17:03:31,590 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0015034676, Posição: -1
+2024-08-02 17:03:31,590 - Target para busca: 63684
+2024-08-02 17:03:31,590 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: 5000
+2024-08-02 17:03:31,590 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,590 - Target para busca: 28250
+2024-08-02 17:03:31,590 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: 5500
+2024-08-02 17:03:31,590 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,590 - Target para busca: 50429
+2024-08-02 17:03:31,591 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0010039806, Posição: 6000
+2024-08-02 17:03:31,591 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 50, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [25, 25], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 500, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [250, 250], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 5000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0007517338, Desvio Padrão de Tempo Ordenado: 0.0007517338, Posição no Vetor Desordenado: [2500, 2500], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 10000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0005005598, Desvio Padrão de Tempo Ordenado: 0.0005005598, Posição no Vetor Desordenado: [5000, 5000], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 11000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [5500, 5500], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Algoritmo de Busca: busca_linear, Tamanho: 12000, Média de Tempo Desordenado: 0.0005019903, Desvio Padrão de Tempo Desordenado: 0.0005019903, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [6000, 6000], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,591 - Avaliando algoritmo de busca: busca_binaria
+2024-08-02 17:03:31,591 - Execução 1 de 2
+2024-08-02 17:03:31,591 - Target para busca: 18882
+2024-08-02 17:03:31,591 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: 25
+2024-08-02 17:03:31,591 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Target para busca: 81015
+2024-08-02 17:03:31,591 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Target para busca: 87767
+2024-08-02 17:03:31,591 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Target para busca: 63684
+2024-08-02 17:03:31,591 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,591 - Target para busca: 28250
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0009999275, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 50429
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Execução 2 de 2
+2024-08-02 17:03:31,592 - Target para busca: 18882
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 50: Tempo: 0.0000000000, Posição: 25
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 50: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 81015
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 500: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 87767
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 5000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 63684
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 10000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 28250
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 11000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Target para busca: 50429
+2024-08-02 17:03:31,592 - Busca no vetor desordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Busca no vetor ordenado de tamanho 12000: Tempo: 0.0000000000, Posição: -1
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 50, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [25, 25], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 500, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 5000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 10000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 11000, Média de Tempo Desordenado: 0.0004999638, Desvio Padrão de Tempo Desordenado: 0.0004999638, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
+2024-08-02 17:03:31,592 - Algoritmo de Busca: busca_binaria, Tamanho: 12000, Média de Tempo Desordenado: 0.0000000000, Desvio Padrão de Tempo Desordenado: 0.0000000000, Média de Tempo Ordenado: 0.0000000000, Desvio Padrão de Tempo Ordenado: 0.0000000000, Posição no Vetor Desordenado: [-1, -1], Posição no Vetor Ordenado: [-1, -1]
